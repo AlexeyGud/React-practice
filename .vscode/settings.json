@@ -1,0 +1,10 @@
+{
+	"emmet.excludeLanguages": [
+		"markdown"
+	],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+	"editor.fontLigatures": null
+}
